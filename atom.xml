@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>林夼的个人博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-03-09T08:13:04.956Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>lin kuang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/03/01/hello-world/"/>
+    <id>http://example.com/2025/03/01/hello-world/</id>
+    <published>2025-03-01T13:54:09.331Z</published>
+    <updated>2025-03-09T08:13:04.956Z</updated>
+    
+    <content type="html"><![CDATA[<p><font face="HEI">测试</font></p><p><font face="KAI">测试</font></p><p><font face="GB18030 Bitmap">测试</font></p><p><font size="1">测试</font></p><p><font size="2">测试</font></p><p><font size="3">测试</font></p><p><font size="4">测试</font></p><p><font size="5">测试</font></p><p><font size="6">测试</font></p><p><font size="7">测试</font></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;HEI&quot;&gt;测试&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;KAI&quot;&gt;测试&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;GB18030 Bitmap&quot;&gt;测试&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&quot;1&quot;&gt;测试&lt;/font&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
