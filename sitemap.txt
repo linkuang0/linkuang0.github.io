@@ -1,0 +1,7 @@
+http://example.com/caesar-cracker/index.html
+http://example.com/photos/index.html
+http://example.com/2025/03/01/hello-world/
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/friends/index.html
+http://example.com/
